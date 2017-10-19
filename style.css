@@ -1,1 +1,43 @@
+/* Global Styles */
+
+/* Button Overwrite */
+.btn {
+    background-color: #AB5219;
+}
+.btn:visited {
+    background-color: #AB5219;
+}
+.btn:hover {
+    background-color: #c85f1e;
+}
+.btn:active {
+    background-color: #E28045;
+}
+
+.login {
+    margin-top: 10px;
+}
+.banner-space {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding-bottom: 5%;
+}
+
+
+.banner-foreground {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+}
+
+.banner {
+    background-color: #214D5F;
+}
+#item_field_logged_out {
+    margin-top: -5px;
+    padding-top: -5px;
+}
+
 
