@@ -13,7 +13,9 @@
 .btn:active {
     background-color: #E28045;
 }
-
+html {
+    background-color: #e8edef;
+}
 .login {
     margin-top: 10px;
 }
@@ -69,4 +71,11 @@
     }
 }
 
+.page-footer {
+    background-color: #214D5F;
+}
+
+.page-footer a{
+    margin-left: 5%;
+}
 
