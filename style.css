@@ -45,4 +45,11 @@
     color: #214D5F;
 }
 
+.reason img {
+    width: 75%;
+    height: auto;
+}
+.reason-entry {
+    margin-bottom: 15%;
+}
 
