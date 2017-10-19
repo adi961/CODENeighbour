@@ -1,0 +1,87 @@
+/* Global Styles */
+
+/* Button Overwrite */
+.btn {
+    background-color: #AB5219;
+}
+.btn:visited {
+    background-color: #AB5219;
+}
+.btn:hover {
+    background-color: #c85f1e;
+}
+.btn:active {
+    background-color: #E28045;
+}
+html {
+    background-color: #e8edef;
+}
+.login {
+    margin-top: 10px;
+}
+.banner-space {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding-bottom: 5%;
+}
+
+
+.banner-foreground {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+}
+
+.banner {
+    background-color: #214D5F;
+    min-height: 70px;
+}
+#item_field_logged_out {
+    margin-top: -5px;
+    padding-top: -5px;
+}
+
+.stats {
+    background-color: #d8d8d8;
+    color: #214D5F;
+}
+
+.reason img {
+    width: 75%;
+    height: auto;
+}
+.reason-entry {
+    margin-bottom: 15%;
+}
+.CTA a{
+    position: relative;
+    bottom: 40px;
+}
+
+@media screen and (min-width: 480px) and (max-width: 1000px) {
+    .CTA a {
+        bottom: 100px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .CTA a {
+        bottom: 130px;
+    }
+}
+
+.page-footer {
+    background-color: #214D5F;
+}
+
+.page-footer a{
+    margin-left: 5%;
+}
+
+.title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
