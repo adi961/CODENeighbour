@@ -52,4 +52,21 @@
 .reason-entry {
     margin-bottom: 15%;
 }
+.CTA a{
+    position: relative;
+    bottom: 40px;
+}
+
+@media screen and (min-width: 480px) and (max-width: 1000px) {
+    .CTA a {
+        bottom: 100px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .CTA a {
+        bottom: 130px;
+    }
+}
+
 
